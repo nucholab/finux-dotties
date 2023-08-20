@@ -1,0 +1,4 @@
+#+title: finux-dotties
+
+Set of dotfiles to use on *nix machines (e.g. VMs, iSH). Managed with GNU =stow=.
+

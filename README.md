@@ -1,2 +1,0 @@
-# finux-dotties
-Alternate dotfiles
