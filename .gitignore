@@ -1,5 +1,8 @@
 *~
 ssh/.ssh/keys
 ssh/.ssh/known*
+emacs/.emacs.d/auto-save-list
 emacs/.emacs.d/url
-emacs/.emacs.d/eshell
+emacs/.emacs.d/eshell/history
+emacs/.emacs.d/eshell/lastdir
+
