@@ -2,5 +2,7 @@
 export EDITOR=emacs
 
 # Aliases
-alias ls="ls -AF --color=always"
-alias ll="ls -lh"
+alias ls='exa -aF'
+alias ll='ls -lhm'
+alias exag='ll --git'
+
