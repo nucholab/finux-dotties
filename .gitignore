@@ -2,3 +2,4 @@
 ssh/.ssh/keys
 ssh/.ssh/known*
 emacs/.emacs.d/url
+emacs/.emacs.d/eshell
